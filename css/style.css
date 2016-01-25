@@ -1,0 +1,163 @@
+
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script|Patua+One|Fredoka+One);
+/*
+ * 
+ * font-family: 'Kaushan Script', cursive;
+ * font-family: 'Patua One', cursive;
+ * font-family: 'Fredoka One', cursive;
+ * /
+
+
+@media (max-width: @screen-xs) {
+    body{font-size: 10px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+
+
+h5{
+    font-size: 1.4em;
+}
+
+/*==================================
+ *            Defualt Styles         *
+ * =================================*/
+
+
+
+
+/*==================================
+ *        End Defualt Styles        *
+ * =================================*/ 
+ 
+ 
+ /*----------------------------------------*/
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+/*==================================
+ *              Body                *
+ * ================================*/
+ 
+
+body{
+   background-color:#d9d9d9;
+
+}
+
+.logo{
+   margin: 0 auto;
+   display: block;
+   padding-bottom:0px;
+
+}
+
+.text2{
+  font-family: Century Gothic, sans-serif;
+}
+
+ul{
+   text-align:center;
+
+}
+.social{
+  margin-top:-10px;
+
+}
+.my-social{
+   margin-top:-20px;
+}
+li{
+   display: inline;
+   padding:11px;
+
+}
+.icons{
+  color: #3e3e3e;
+}
+.icons:hover{
+  color: #1a1a1a;
+}
+
+.logo{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 1s;
+  -webkit-animation-iteration-count:1;
+  -moz-animation-duration: 2s;
+  -moz-animation-delay: 1s;
+  -moz-animation-iteration-count:1;
+
+}
+
+.text{
+  -webkit-animation-duration: 1s;
+  -webkit-animation-delay: 4s;
+  -webkit-animation-iteration-count:1;
+  -moz-animation-duration: 1s;
+  -moz-animation-delay: 4s;
+  -moz-animation-iteration-count:1;
+
+}
+
+.icons{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count:1;
+  -moz-animation-duration: 2s;
+  -moz-animation-delay: 2s;
+  -moz-animation-iteration-count:1;
+
+}
+
+.copyrights{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count:1;
+  -moz-animation-duration: 2s;
+  -moz-animation-delay: 2s;
+  -moz-animation-iteration-count:1;
+
+}
+
+/*==================================
+ *             End Of Body          *
+ * =================================*/
+ 
+
+ /*----------------------------------------*/
+ 
+
+/*==================================
+ *            footar                *
+ * =================================*/
+ 
+.copyrights a {
+  font-weight:bold;
+  color:#3e3e3e;
+  
+
+}
+.copyrights p {
+  text-align:center;
+  
+
+}
+
+/*==================================
+ *            End Of footer         *
+ * =================================*/
+ 
+ 
+/*-----------------------------------------------*/
